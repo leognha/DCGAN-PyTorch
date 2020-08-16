@@ -2,9 +2,6 @@ import os
 import matplotlib.pyplot as plt
 from scipy.misc import imresize
 
-
-
-
 # root path depends on your computer
 root = 'D:/users/leognha/Desktop/GAN/DCGAN/data/celeba/img_align_celeba/'
 save_root = 'data/resized_celebA/'
